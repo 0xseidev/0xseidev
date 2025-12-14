@@ -38,6 +38,14 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   -->
+<a href="https://wa.me/14583430677?text=Hello%20I%20would%20like%20to%20connect" target="_blank">
+  <img 
+    alt="WhatsApp" 
+    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+  />
+</a>
+
+
 </p>
 
 ---
