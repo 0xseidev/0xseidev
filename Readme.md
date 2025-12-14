@@ -47,5 +47,3 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
 
 
 </p>
-
----
